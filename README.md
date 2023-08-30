@@ -34,7 +34,7 @@ This project aims to provide a visual representation of Indian export and import
 
 ## Live Link
 
-For a live demonstration of the visualizations created from the Indian export and import data, you can visit the following link: [Live Visualization]([https://www.example.com](https://public.tableau.com/app/profile/sehajbir.singh.mann/viz/DataScience_Project-1_Sehajbir_102003478/IndiasTradeOverYears?publish=yes))
+For a live demonstration of the visualizations created from the Indian export and import data, you can visit the following link: [Live Visualization](https://public.tableau.com/app/profile/sehajbir.singh.mann/viz/DataScience_Project-1_Sehajbir_102003478/IndiasTradeOverYears?publish=yes)
 
 ## Screenshot of the Interface
 
