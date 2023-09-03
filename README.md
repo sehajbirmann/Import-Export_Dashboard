@@ -38,7 +38,7 @@ For a live demonstration of the visualizations created from the Indian export an
 
 ## Screenshot of the Interface
 
-![Screenshot](Dashboard_DS.png)
+[Dashboard_DS](https://github.com/sehajbirmann/Import-Export_Dashboard/assets/72991473/bb4abc88-9fe9-421e-9067-3d69578b239f)
 
 ## Technologies Used
 
